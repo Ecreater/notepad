@@ -1,4 +1,4 @@
-### Announcing the new Notepad++ on Windows - Notepad++ 7.4 released
+## Announcing the new Notepad++ on Windows - Notepad++ 7.4 released
 
 I have made Edge as my default browser recently (nice browser BTW, a lack of "search in Google" command though), one of awesome features in Edge is peeking page while mouse hovering on a inactive tab. By hovering mouse on any inactive tab, you can preview document displaying under the tab, or / and on document map. This feature can be disabled easily by unchecking "Peek on tab" of Document Peeker, in MISC. section of Preferences dialog.
 
