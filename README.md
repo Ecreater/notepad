@@ -4,3 +4,4 @@ I have made Edge as my default browser recently (nice browser BTW, a lack of "se
 
 The regression of replace in files in v7.4.1 has been fixed.There are also some fixed bugs and 1 enhancement (Resizable Find & Replace Dialog) including in this release.
 
+Copyright © Don Ho Notepad++ 2017, Inc. All Rights Reserved.
